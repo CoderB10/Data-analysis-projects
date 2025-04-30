@@ -1,2 +1,3 @@
 # Data-analysis-projects
 This project is made by Yog Gupta(me) for showcasing my knowledge and skills of data analyses. This one is an independent project i.e. completely made my me.
+Dataset contains sales data of shops in a region/country dating from April 2021 and ending in Feb 2023. There are 10 stores (StoreID 101, 102 .... etc.) distributed across regions north, east, west, south. Sales were driven by total 20 reps (RepID 201, 202, …etc.) for 20 products ( ProductID 301, 302, …etc.) grouped under 4 different categories (Clothing, Electronics, Toys and Home & Kitchen) with 10 subcategories. The dataset was an excel file with different sheets for Store data, Product data, Rep data and sales data.

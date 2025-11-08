@@ -38,7 +38,7 @@ The dataset was provided as an Excel workbook consisting of four sheets:
 ### 🔹 5. Product Profitability
 - Visual ranking of products by **total profit over time**.
 - Top 5: Products 307, 311, 317, 301, 319 (Home & Kitchen, Toys)
-- Bottom 5: Products 302, 308, 315, 316, 320 — many also in the same categories.
+- Bottom 5: Products 302, 308, 315, 316, 320 and others in the same categories.
 
 ### 🔹 6. Avg. Monthly Sales of Bottom Products
 - Year-wise normalized plot shows **Product 315** improving, while others show **declining demand**.
@@ -49,7 +49,7 @@ The dataset was provided as an Excel workbook consisting of four sheets:
 
 ### 🔹 8. Discount vs. Sales Regionally (2022)
 - North: Strong **positive response** to discounting.
-- East: Only 1 store (103) — discount effect unclear.
+- East: Only 1 store (103) - discount effect unclear.
 - West: Store 109 responds well.
 - South: **Weak correlation** between discount and sales.
 
@@ -83,12 +83,12 @@ The dataset was provided as an Excel workbook consisting of four sheets:
 ---
 
 ## ✅ Conclusion
-The project delivers actionable insights into sales behavior, rep performance, product profitability, and regional trends — all derived from transactional sales data. It aids in both **strategic decision-making** and **operational optimization** for supermarket chains.
+The project delivers actionable insights into sales behavior, rep performance, product profitability, and regional trends,  all derived from transactional sales data. It aids in both **strategic decision-making** and **operational optimization** for supermarket chains.
 
 ---
 
 **Created by:** Yog Gupta  
-📅 **Data Range:** April 2021 – February 2023  
+📅 **Data Range:** April 2021 - February 2023  
 📌 **Regions Analyzed:** North, South, East, West
 
 ---
